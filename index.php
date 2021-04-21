@@ -175,40 +175,35 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Services</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <h2>Voordelen</h2>
             </div>
 
             <div class="row">
                 <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4><a href="">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                        <h4><a href="">Bewezen strategie</a></h4>
+                        <p>Onze educatie spellen hebben een bewezen positief effect op zowel de productiviteit als leersnelheid van een leerling die moeite heeft met het verwerken van informatie via het schoolbord of ouderwetse boeken. </p>
                     </div>
                 </div>
 
                 <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-file"></i></div>
-                        <h4><a href="">Sed ut perspici</a></h4>
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                        <h4><a href="">Doelgericht</a></h4>
+                        <p>De progressie van de leerling is ons succes. Constant zijn wij bezig met het verbeteren van onze applicaties, AI en software om consistent de beste oplossing te bieden voor onze doelgroep.</p>
                     </div>
                 </div>
 
                 <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-tachometer"></i></div>
-                        <h4><a href="">Magni Dolores</a></h4>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                        <h4><a href="">Nieuwe werkwijze</a></h4>
+                        <p>De focus ligt op het behalen van leerdoelen. De ene leerling zal sneller bij dit doel komen dan de ander. Je kunt op je eigen tempo de opdrachten maken, dit zodat we de leerling niet pushen of onder druk zetten.</p>
                     </div>
                 </div>
 
                 <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-layer"></i></div>
-                        <h4><a href="">Nemo Enim</a></h4>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                        <h4><a href="">Progressieportaal</a></h4>
+                        <p>De progressie van de leerling wordt tijdens de diagnostische toetsen getrackt. Deze data kan vervolgens door de docent/ouder/verzorger online worden ingezien om de ontwikkeling te zien. </p>
                     </div>
                 </div>
 
@@ -217,22 +212,18 @@
         </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Cta Section ======= -->
+    <!-- ======= Do IT Section ======= -->
     <section id="cta" class="cta">
         <div class="container" data-aos="zoom-in">
 
             <div class="row">
-                <div class="col-lg-9 text-center text-lg-start">
-                    <h3>Call To Action</h3>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
-                <div class="col-lg-3 cta-btn-container text-center">
-                    <a class="cta-btn align-middle" href="#">Call To Action</a>
+                <div class="col-lg-12 text-center text-lg-start">
+                    <h3>Do IT Samen!</h3>
                 </div>
             </div>
 
         </div>
-    </section><!-- End Cta Section -->
+    </section><!-- End Do IT Section -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
@@ -324,56 +315,37 @@
 
             <div class="section-title">
                 <h2>Frequently Asked Questions</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>We hopen uw vragen altijd te kunnen beantwoorden, zou het antwoord op uw vraag hier niet tussen staan neem dan gerust contact met ons op!</p>
             </div>
 
             <div class="faq-list">
                 <ul>
                     <li data-aos="fade-up" data-aos-delay="100">
-                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Hoeveel kost LearnIT? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                             <p>
-                                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                                De aanschafprijs per product is €250. Het portaal, service & updates zit bij het product inbegrepen, hier zijn geen extra kosten aan verbonden. Voor bulk-orders hanteren wij volumekorting, stuur hiervoor een bericht via het contactformulier.
                             </p>
                         </div>
                     </li>
 
                     <li data-aos="fade-up" data-aos-delay="200">
-                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Mijn rekenspel is kapot, wat nu? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                             <p>
-                                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                Ons technisch team staat iedere werkdag paraat om je te helpen. Plan een afspraak in en het product wordt kosteloos vervangen of gerepareerd.
                             </p>
                         </div>
                     </li>
 
                     <li data-aos="fade-up" data-aos-delay="300">
-                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Het is toch niet wat ik verwachtte, kan ik het retourneren? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                             <p>
-                                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                Wat vervelend om te horen dat je niet tevreden bent over ons product. Uiteraard is retourneren mogelijk, meld je retour aan binnen 30 dagen en stuur vervolgens het product inclusief toebehoren kosteloos terug.
                             </p>
                         </div>
                     </li>
-
-                    <li data-aos="fade-up" data-aos-delay="400">
-                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                        <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-                            <p>
-                                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
-                            </p>
-                        </div>
-                    </li>
-
-                    <li data-aos="fade-up" data-aos-delay="500">
-                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                        <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-                            <p>
-                                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
-                            </p>
-                        </div>
-                    </li>
-
                 </ul>
             </div>
 
@@ -386,7 +358,7 @@
 
             <div class="section-title">
                 <h2>Contact</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>Mocht je vragen of opmerkingen hebben kun je contact met ons opnemen via het formulier hieronder. Wij streven ernaar alle vragen binnen 2 werkdagen te beantwoorden.</p>
             </div>
 
             <div class="row">
@@ -395,7 +367,7 @@
                     <div class="info">
                         <div class="address">
                             <i class="bi bi-geo-alt"></i>
-                            <h4>Location:</h4>
+                            <h4>Locatie:</h4>
                             <p>Rachelsmolen R10, 5623 PE Eindhoven</p>
                         </div>
 
@@ -407,7 +379,7 @@
 
                         <div class="phone">
                             <i class="bi bi-phone"></i>
-                            <h4>Call:</h4>
+                            <h4>Telefoon:</h4>
                             <p>+1 5589 55488 55s</p>
                         </div>
 
@@ -420,28 +392,28 @@
                     <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                         <div class="row">
                             <div class="form-group col-md-6">
-                                <label for="name">Your Name</label>
+                                <label for="name">Naam</label>
                                 <input type="text" name="name" class="form-control" id="name" required>
                             </div>
                             <div class="form-group col-md-6">
-                                <label for="name">Your Email</label>
+                                <label for="name">Email</label>
                                 <input type="email" class="form-control" name="email" id="email" required>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="name">Subject</label>
+                            <label for="name">Onderwerp</label>
                             <input type="text" class="form-control" name="subject" id="subject" required>
                         </div>
                         <div class="form-group">
-                            <label for="name">Message</label>
+                            <label for="name">Bericht</label>
                             <textarea class="form-control" name="message" rows="10" required></textarea>
                         </div>
                         <div class="my-3">
-                            <div class="loading">Loading</div>
+                            <div class="loading">Laden</div>
                             <div class="error-message"></div>
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
+                            <div class="sent-message">Uw bericht is verzonden. We streven erna om binnen twee werkdagen te reargeren. Dank u!</div>
                         </div>
-                        <div class="text-center"><button type="submit">Send Message</button></div>
+                        <div class="text-center"><button type="submit">Verstuur Bericht</button></div>
                     </form>
                 </div>
 
