@@ -101,14 +101,14 @@
                     <ul>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Home</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">About us</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Services</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">voordelen</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Terms of service</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Privacy policy</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 style="color: white">Our Services</h4>
+                    <h4 style="color: white">Our voordelen</h4>
                     <ul>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Web Design</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Web Development</a></li>

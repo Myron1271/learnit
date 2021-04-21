@@ -107,9 +107,9 @@
             <div class="row content">
                 <div class="col-lg-12">
                     <p style="text-align: center">
-                        Learn IT® is voortgekomen uit een schoolproject, dit product was zo innoverend dat we als school groep samen het bedrijf Learn IT® zijn gestart.
+                        Learn IT® is voortgekomen uit een schoolproject, dit product was zo innoverend dat we als schoolgroep samen het bedrijf Learn IT® zijn gestart.
                         <br>
-                        En hiermee educatie willen revolutioneren.
+                        Hiermee willen wij educatie revolutioneren.
                     </p>
                 </div>
             </div>
@@ -170,14 +170,13 @@
         </div>
     </section><!-- End Skills Section -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
+    <!-- ======= voordelen Section ======= -->
+    <section id="voordelen" class="voordelen section-bg">
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
                 <h2>Voordelen</h2>
             </div>
-
             <div class="row">
                 <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
@@ -206,11 +205,9 @@
                         <p>De progressie van de leerling wordt tijdens de diagnostische toetsen getrackt. Deze data kan vervolgens door de docent/ouder/verzorger online worden ingezien om de ontwikkeling te zien. </p>
                     </div>
                 </div>
-
             </div>
-
         </div>
-    </section><!-- End Services Section -->
+    </section><!-- End voordelen Section -->
 
     <!-- ======= Do IT Section ======= -->
     <section id="cta" class="cta">
@@ -231,75 +228,57 @@
 
             <div class="section-title">
                 <h2>Team</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>Ons team bestaat uit 5 jonge studenten die educatie voor de basisschool willen revolutioneren met nieuwe producten uit de tech wereld.</p>
             </div>
 
             <div class="row">
 
                 <div class="col-lg-6">
                     <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                        <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>Walter White</h4>
-                            <span>Chief Executive Officer</span>
-                            <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
-                            <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
-                                <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                            </div>
+                            <h4>Julian Janssen</h4>
+                            <span>Software & Business</span>
+                            <p>Julian is verantwoordelijk geweest voor de software achter het spel, het bedrijfsproces en datavisualisaties</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-6 mt-4 mt-lg-0">
                     <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-                        <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>Sarah Jhonson</h4>
-                            <span>Product Manager</span>
-                            <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-                            <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
-                                <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                            </div>
+                            <h4>Joost van de Pas</h4>
+                            <span>Business & Media</span>
+                            <p>Joost is verantwoordelijk geweest voor de requirements, MVP en het ontwerp van het spel</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-6 mt-4">
+                <div class="col-lg-4 mt-4">
                     <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-                        <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>William Anderson</h4>
-                            <span>CTO</span>
-                            <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                            <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
-                                <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                            </div>
+                            <h4>Teddy Kuijs</h4>
+                            <span>Business & Media</span>
+                            <p>Teddy is verantwoordelijk geweest voor de onderzoek in ons product, de probleem en klantanalyse, het ontwerp van de hardware en van de mockups van de website</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-6 mt-4">
+                <div class="col-lg-4 mt-4">
                     <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-                        <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>Amanda Jepson</h4>
-                            <span>Accountant</span>
-                            <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                            <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
-                                <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                            </div>
+                            <h4>Cas Esselink</h4>
+                            <span>Technology & Software</span>
+                            <p>Cas is verantwoordelijk geweest voor de connectie tussen de Technologie en Software kant, ook heeft Cas het design van Joost toegepast in het programma</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 mt-4">
+                    <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
+                        <div class="member-info">
+                            <h4>Myron Seelen</h4>
+                            <span>Media & Infrastructure</span>
+                            <p>Myron is verantwoordelijk geweest voor de doelgroep analyse, mockups van de website, het coderen van de website en de hosting van de webserver</p>
                         </div>
                     </div>
                 </div>
@@ -314,7 +293,7 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Frequently Asked Questions</h2>
+                <h2>Veelgestelde vragen (FAQ)</h2>
                 <p>We hopen uw vragen altijd te kunnen beantwoorden, zou het antwoord op uw vraag hier niet tussen staan neem dan gerust contact met ons op!</p>
             </div>
 
@@ -380,7 +359,7 @@
                         <div class="phone">
                             <i class="bi bi-phone"></i>
                             <h4>Telefoon:</h4>
-                            <p>+1 5589 55488 55s</p>
+                            <p>040-1234567</p>
                         </div>
 
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1279.6246577738768!2d5.480423751975269!3d51.450950196505815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d9bbf31bd8fb%3A0xbb209e5872fefac8!2sFontys%20R10!5e0!3m2!1snl!2snl!4v1618490174691!5m2!1snl!2snl" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>

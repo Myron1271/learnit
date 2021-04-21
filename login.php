@@ -56,7 +56,7 @@
             <ul>
                 <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
                 <li><a class="nav-link scrollto" href="#about">Over Ons</a></li>
-                <li><a class="nav-link scrollto" href="#services">Services</a></li>
+                <li><a class="nav-link scrollto" href="#voordelen">voordelen</a></li>
                 <li><a class="nav-link scrollto" href="#team">Team</a></li>
                 <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                 <!-- <li><a class="getstarted scrollto" href="#about">Account</a></li> -->
@@ -107,9 +107,9 @@
                 <div class="col-lg-3 col-md-6 footer-contact">
                     <h3 style="color: white">Learn IT</h3>
                     <p style="color: white">
-                        A108 Adam Street <br>
-                        New York, NY 535022<br>
-                        United States <br><br>
+                        Rachelmolen R10<br>
+                        Eindhoven, 5623PE<br>
+                        Netherlands <br><br>
                         <strong>Phone:</strong> +1 5589 55488 55<br>
                         <strong>Email:</strong> info@example.com<br>
                     </p>
@@ -120,14 +120,14 @@
                     <ul>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Home</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">About us</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Services</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">voordelen</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Terms of service</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Privacy policy</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 style="color: white">Our Services</h4>
+                    <h4 style="color: white">Our voordelen</h4>
                     <ul>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Web Design</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Web Development</a></li>
