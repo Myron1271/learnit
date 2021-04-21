@@ -51,6 +51,11 @@
 
         <nav id="navbar" class="navbar">
             <ul>
+                <li><a class="nav-link scrollto active" href="index.php#hero">Home</a></li>
+                <li><a class="nav-link scrollto" href="index.php#about">Over Ons</a></li>
+                <li><a class="nav-link scrollto" href="index.php#voordelen">voordelen</a></li>
+                <li><a class="nav-link scrollto" href="index.php#team">Team</a></li>
+                <li><a class="nav-link scrollto" href="index.php#contact">Contact</a></li>
                 <li class="nav-item dropdown" style="font-size: 30px;">
                     <a class="getstarted nav-link dropdown-toggle" href="#" id="AccountIcon" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Account</a>
                     <div style="text-align: center; background-color: #6882af;" class="dropdown-menu" aria-labelledby="AccountIcon">
@@ -85,58 +90,37 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-3 col-md-6 footer-contact">
+                <div class="col-lg-4 footer-contact">
                     <h3 style="color: white">Learn IT</h3>
                     <p style="color: white">
-                        A108 Adam Street <br>
-                        New York, NY 535022<br>
-                        United States <br><br>
+                        Rachelmolen R10<br>
+                        Eindhoven, 5623PE<br>
+                        Netherlands <br><br>
                         <strong>Phone:</strong> +1 5589 55488 55<br>
                         <strong>Email:</strong> info@example.com<br>
                     </p>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 style="color: white">Useful Links</h4>
+                <div class="col-lg-4 footer-links">
+                    <h4 style="color: white">Links</h4>
                     <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Home</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">About us</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">voordelen</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Terms of service</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Privacy policy</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#hero">Home</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#about">Over Ons</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#voordelen">Voordelen</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#team">Team</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#contact">Contact</a></li>
                     </ul>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 style="color: white">Our voordelen</h4>
-                    <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Web Design</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Web Development</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Product Management</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Marketing</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Graphic Design</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 style="color: white">Our Social Networks</h4>
-                    <p style="color: white">Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+                <div class="col-lg-4 footer-links">
+                    <h4 style="color: white">Social Media</h4>
+                    <p style="color: white">Check hieronder nogmaals onze promo video!</p>
                     <div class="social-links mt-3">
-                        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        <a href="#" class="youtube"><i class="bx bxl-youtube"></i></a>
                     </div>
                 </div>
 
             </div>
-        </div>
-    </div>
-
-    <div class="container footer-bottom clearfix">
-        <div class="copyright">
-            &copy; Copyright <strong><span>Learn IT</span></strong>. All Rights Reserved
         </div>
     </div>
 </footer>

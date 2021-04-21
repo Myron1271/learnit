@@ -35,11 +35,11 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 footer-links">
-                    <h4>Handige Links</h4>
+                    <h4>Links</h4>
                     <ul>
                         <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#about">Over Ons</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#voordelen">Voordelen</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#voordelen">Voordelen</a></li
                         <li><i class="bx bx-chevron-right"></i> <a href="#team">Team</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
                     </ul>

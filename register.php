@@ -2,10 +2,7 @@
 
     include_once 'func/register.func.php';
 
-    if (!isset($_SESSION['user']))
-    {
-    }
-    else
+    if (isset($_SESSION['user']))
     {
         header("location: account.php");
     }
@@ -54,12 +51,11 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                <li><a class="nav-link scrollto" href="#about">Over Ons</a></li>
-                <li><a class="nav-link scrollto" href="#voordelen">voordelen</a></li>
-                <li><a class="nav-link scrollto" href="#team">Team</a></li>
-                <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                <!-- <li><a class="getstarted scrollto" href="#about">Account</a></li> -->
+                <li><a class="nav-link scrollto active" href="index.php#hero">Home</a></li>
+                <li><a class="nav-link scrollto" href="index.php#about">Over Ons</a></li>
+                <li><a class="nav-link scrollto" href="index.php#voordelen">voordelen</a></li>
+                <li><a class="nav-link scrollto" href="index.php#team">Team</a></li>
+                <li><a class="nav-link scrollto" href="index.php#contact">Contact</a></li>
                 <li class="nav-item dropdown" style="font-size: 30px;">
                     <a class="getstarted nav-link dropdown-toggle" href="#" id="AccountIcon" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Account</a>
                     <div style="text-align: center; background-color: #6882af;" class="dropdown-menu" aria-labelledby="AccountIcon">
@@ -77,13 +73,15 @@
 
 <main>
     <br>
-    <br>
     <form class="text-center p-5 col-md-4 offset-md-4 rounded position-relative animate__animated animate__flipInX" style="background-color: #e0e0e05c" action="register.php" method="post" enctype="multipart/form-data">
         <p class="FormText mb-4">Registeren</p>
         <br>
         <div class="row">
             <div class="col-md-8 offset-md-2">
                 <input type="text" name="Username_Register" class="form-control" placeholder="Gebruikersnaam" required>
+            </div>
+            <div class="col-md-8 offset-md-2" style="margin-top: 10px">
+                <input type="text" name="School_Naam" class="form-control mb-4" placeholder="School Naam" required>
             </div>
             <div class="col-md-8 offset-md-2" style="margin-top: 10px">
                 <input type="email" name="Email_Register" class="form-control mb-4" placeholder="Email" required>
@@ -106,7 +104,7 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-3 col-md-6 footer-contact">
+                <div class="col-lg-4 footer-contact">
                     <h3 style="color: white">Learn IT</h3>
                     <p style="color: white">
                         Rachelmolen R10<br>
@@ -117,47 +115,26 @@
                     </p>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 style="color: white">Useful Links</h4>
+                <div class="col-lg-4 footer-links">
+                    <h4 style="color: white">Links</h4>
                     <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Home</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">About us</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">voordelen</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Terms of service</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Privacy policy</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#hero">Home</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#about">Over Ons</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#voordelen">Voordelen</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#team">Team</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="index.php#contact">Contact</a></li>
                     </ul>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 style="color: white">Our voordelen</h4>
-                    <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Web Design</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Web Development</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Product Management</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Marketing</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a style="color: white" href="#">Graphic Design</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 style="color: white">Our Social Networks</h4>
-                    <p style="color: white">Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+                <div class="col-lg-4 footer-links">
+                    <h4 style="color: white">Social Media</h4>
+                    <p style="color: white">Check hieronder nogmaals onze promo video!</p>
                     <div class="social-links mt-3">
-                        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        <a href="#" class="youtube"><i class="bx bxl-youtube"></i></a>
                     </div>
                 </div>
 
             </div>
-        </div>
-    </div>
-
-    <div class="container footer-bottom clearfix">
-        <div class="copyright">
-            &copy; Copyright <strong><span>Learn IT</span></strong>. All Rights Reserved
         </div>
     </div>
 </footer>
