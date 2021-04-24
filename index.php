@@ -51,7 +51,7 @@
                 <h2>Wij van Learn IT® zijn gepasioneerde ITers die de nieuwste Tech naar school willen brengen</h2>
                 <div class="d-flex justify-content-center justify-content-lg-start">
                     <a href="#about" class="btn-get-started scrollto">Get Started</a>
-                    <a href="#" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Bekijk onze Video</span></a>
+                    <a href="https://www.youtube.com/watch?v=FtfLYc72pe0" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Bekijk onze Video</span></a>
                 </div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -63,40 +63,47 @@
 
 <main id="main">
 
-    <!-- ======= Cliens Section ======= -->
+    <!-- ======= Scholen/Clients Section ======= -->
     <section id="cliens" class="cliens section-bg">
         <div class="container">
-
             <div class="row" data-aos="zoom-in">
-
                 <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                    <a style="width: 100%" href="https://www.vbs-deregenboog.nl/" target="_blank">
                     <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                    <a style="width: 100%" href="https://bskareldegrote.nl/" target="_blank">
+                        <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+                    </a>
                 </div>
 
                 <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+                    <a style="width: 100%" href="https://troubadour-skpo.nl/" target="_blank">
+                        <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+                    </a>
                 </div>
 
                 <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+                    <a style="width: 100%" href="https://deschakeleindhoven.nl/" target="_blank">
+                        <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+                    </a>
                 </div>
 
                 <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+                    <a style="width: 100%" href="https://www.bernhardschool.nl/" target="_blank">
+                        <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+                    </a>
                 </div>
 
                 <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+                    <a style="width: 100%" href="https://www.bsnoorderlicht.nl/" target="_blank">
+                        <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+                    </a>
                 </div>
-
-                <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                    <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-                </div>
-
             </div>
-
         </div>
-    </section><!-- End Cliens Section -->
+    </section><!-- End Scholen/Clients Section -->
 
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
